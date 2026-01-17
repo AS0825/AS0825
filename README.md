@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋 I'm Abhijna Shetty
 
-<!--
-**AS0825/AS0825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year Engineering Student  
+💻 Interested in Web Development & Software Engineering  
+🚀 Actively building real-world projects  
+📌 Looking for internships & placement opportunities
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Languages: C, Python, JavaScript
+- Web: HTML, CSS, React / Next.js
+- Database: MySQL
+- Tools: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+🔹 Blood Bank Management System  
+🔹 Portfolio Website
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/abhijna-shetty-017b0b282/
+- Email: abhijna.is23@sahyadri.edu.in
