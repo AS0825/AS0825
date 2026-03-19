@@ -12,8 +12,10 @@
 - Tools: Git, GitHub
 
 ## 📂 Projects
-🔹 Blood Bank Management System  
-🔹 Portfolio Website
+🔹 Campus Ticketing System (HTML)
+🔹 Mini-IDS (Python)
+🔹 Blood Bank Management System
+🔹 Safe Port Guard System (Mini Project)
 
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/abhijna-shetty-017b0b282/
