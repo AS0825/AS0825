@@ -1,22 +1,32 @@
 # Hi 👋 I'm Abhijna Shetty
 
 🎓 3rd Year Engineering Student  
-💻 Interested in Web Development & Software Engineering  
-🚀 Actively building real-world projects  
-📌 Looking for internships & placement opportunities
+💻 Passionate about Web Development & Software Engineering  
+🚀 Actively building real-world projects and improving my skills  
+📌 Open to internships and placement opportunities  
 
-## 🛠 Skills
-- Languages: C, Python, JavaScript
-- Web: HTML, CSS, React / Next.js
-- Database: MySQL
-- Tools: Git, GitHub
+---
+
+## 🛠️ Skills
+- **Languages:** C, Python, JavaScript  
+- **Web Technologies:** HTML, CSS, React / Next.js  
+- **Database:** MySQL  
+- **Tools & Platforms:** Git, GitHub  
+
+---
 
 ## 📂 Projects
-🔹 Campus Ticketing System (HTML)
-🔹 Mini-IDS (Python)
-🔹 Blood Bank Management System
-🔹 Safe Port Guard System (Mini Project)
+- 🔹 **Campus Ticketing System** (HTML)  
+- 🔹 **Mini-IDS** (Python)  
+- 🔹 **Blood Bank Management System**  
+- 🔹 **Safe Port Guard System** (Mini Project)  
 
-## 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/abhijna-shetty-017b0b282/
-- Email: abhijna.is23@sahyadri.edu.in
+---
+
+## 📫 Connect with Me
+- 🔗 **LinkedIn:** [abhijna-shetty](https://www.linkedin.com/in/abhijna-shetty-017b0b282/)  
+- 📧 **Email:** abhijna.is23@sahyadri.edu.in  
+
+---
+
+⭐ *Always eager to learn, collaborate, and build impactful solutions!*
