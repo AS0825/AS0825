@@ -16,10 +16,10 @@
 ---
 
 ## 📂 Projects
-- 🔹 **Campus Ticketing System** (HTML)  
-- 🔹 **Mini-IDS** (Python)  
-- 🔹 **Blood Bank Management System**  
-- 🔹 **Safe Port Guard System** (Mini Project)  
+  🔹 **Campus Ticketing System** (HTML)  
+  🔹 **Mini-IDS** (Python)  
+  🔹 **Blood Bank Management System**  
+  🔹 **Safe Port Guard System** (Mini Project)  
 
 ---
 
@@ -29,4 +29,4 @@
 
 ---
 
-⭐ *Always eager to learn, collaborate, and build impactful solutions!*
+ *Always eager to learn, collaborate, and build impactful solutions!*
