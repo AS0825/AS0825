@@ -1,4 +1,4 @@
-# Hi 👋 I'm Abhijna Shetty
+# Hi I'm Abhijna Shetty
 
 🎓 3rd Year Engineering Student  
 💻 Passionate about Web Development & Software Engineering  
