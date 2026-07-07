@@ -1,6 +1,6 @@
 # Hi I'm Abhijna Shetty
 
-🎓 3rd Year Engineering Student  
+🎓 4th Year Engineering Student  
 💻 Passionate about Web Development & Software Engineering  
 🚀 Actively building real-world projects and improving my skills  
 📌 Open to internships and placement opportunities  
